@@ -1,5 +1,5 @@
 # Parser
-Parse multilvele JSON and convert  it to Single JSON object
+Parse multilevel JSON and convert  it to Single JSON object
 
 To run the parser download the jar file and run with below command 
 
